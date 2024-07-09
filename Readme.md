@@ -10,7 +10,6 @@ Course project
 
 
 By: Zelalem Ashenafi	GSE/4564/16 </b>
-
-    Milkesa Kumera    GSE/1533/16 </b>
+    Milkesa Kumera    GSE/1533/16
     
 Submitted to: Dr. Natnael Argaw(Ph.D.)
