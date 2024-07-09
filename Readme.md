@@ -9,7 +9,7 @@ AI Principles and Techniques Extension MSc
 Course project
 
 
-By: Zelalem Ashenafi	GSE/4564/16 </b>
+By: Zelalem Ashenafi	GSE/4564/16 <br>
     Milkesa Kumera    GSE/1533/16
     
 Submitted to: Dr. Natnael Argaw(Ph.D.)
